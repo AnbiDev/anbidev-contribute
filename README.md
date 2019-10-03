@@ -6,7 +6,7 @@ Contribute Post for Blog to AnbiDev
 * [anbidev.tech](http://anbidev.tech)
 
 ## How To Contribute?
-* [Learn Here ] *(https://anbidev.tech/contribute/documentation/
+*[Learn Here]*(https://anbidev.tech/contribute/documentation/)
 
 ## Motto
 
