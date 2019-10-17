@@ -51,4 +51,3 @@ Ini contoh [Link](https://anbidev.com)
 </html>
 ```
 
-**Hasilnya ada [disini]()**
